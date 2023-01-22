@@ -4,6 +4,6 @@ HTML - CSS - JS - React - Redux
 
 ---
 
-[See The Project](notesappredux.surge.sh)
+[See The Project](https://notesappredux.surge.sh/)
 
 ![napimg](notesapp.png)
